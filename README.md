@@ -3,7 +3,7 @@
 ## Project Overview
 An end-to-end HR analytics solution that transforms raw HR data into actionable insights through an interactive dashboard, providing HR professionals with evidence-based information for strategic decision-making.
 
-![HR Analytics Dashboard](https://via.placeholder.com/800x400?text=HR+Analytics+Dashboard)
+![HR Analytics Dashboard](https://res.cloudinary.com/dovvc3hvb/image/upload/v1745673528/hr.jpg)
 
 ## Table of Contents
 - [Abstract](#abstract)
