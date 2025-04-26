@@ -197,7 +197,7 @@ To set up this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
+   git clone https://github.com/murthy30300/HR_Analytics.git
    cd hr-analytics-dashboard
    ```
 
